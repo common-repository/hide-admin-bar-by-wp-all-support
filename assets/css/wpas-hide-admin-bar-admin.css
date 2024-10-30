@@ -1,0 +1,9 @@
+.wpas-hide-bar-content .admin-bar-custom-rule-wrap {width: calc(100% - 80px);float: left;margin: 20px 0 0 0;position: relative;background: #FFF;padding: 15px 40px;border-radius: 2px;box-shadow: 0 0 10px #CCC;}
+.wpas-hide-bar-content {width: 100%;float: left;}
+.wpas-hide-bar-content div {width: 50%;float: left;}
+.admin-bar-custom-rule-wrap .custom-rule-action {position: absolute;left: auto;right: -10px;text-align: right;width: auto;top: 30%;}
+.admin-bar-custom-rule-wrap .custom-rule-action a {font-size: 20px;color: #CCC;outline: none;box-shadow: unset;}
+.admin-bar-custom-rule-wrap .custom-rule-action a:hover {color: #b31919;}
+.admin-bar-custom-rule-wrap .current-rule-number {width: auto;position: absolute;left: -20px;top: 40%;}
+.admin-bar-custom-rule-wrap .current-rule-number span {padding: 10px 15px;border-radius: 50%;background: #fff;border: 1px solid #CCC;}
+a.create-new-custom-rule i.fa-spinner {margin-left: 10px;}
